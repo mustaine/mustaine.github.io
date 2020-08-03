@@ -45,3 +45,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 plugins:
   - jekyll-gist
+theme: jekyll-theme-minimal
