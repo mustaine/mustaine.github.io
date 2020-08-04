@@ -76,5 +76,5 @@ just because the process sucks.
 To use mono-repo will need some tooling. As an organisation, it would simplify development, reduce development time and cost. 
 For developers, helps to have more visibility of the codebase, share code and do refactors simpler.  Also helps to reduce the waste of time managing dependencies, pipelines, reports and so on.
 
-If you have any experience with multi-repo vs mono-repo, please share it in the comments or start a thread in [twitter](https://twitter.com/MuSTa1nE)
+If you have any experience with multi-repo vs mono-repo, please share it in the comments or start a thread in [twitter](https://twitter.com/jsalinaspolo)
 
