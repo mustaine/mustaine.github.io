@@ -115,7 +115,7 @@ public void activateEntitlementDoesNotReturnAnEntitlementIfIsAlreadyActivated_Ex
 
 {% endhighlight %}
  
-These examples are using [**LogCapture**](https://github.com/mustaine/logcapture), a testing library for asserting logging messages. 
+These examples are using [**LogCapture**](https://github.com/jsalinaspolo/logcapture), a testing library for asserting logging messages. 
 I expect to have a separate post talking about it, hopefully sooner than this post from my last one 😅
 
 There are more examples on how to use the library in [here](https://github.com/jsalinaspolo/logcapture/blob/master/logcapture-junit4/src/test/java/com/logcapture/junit4/example/ExampleShould.java){:target="_blank"}.
