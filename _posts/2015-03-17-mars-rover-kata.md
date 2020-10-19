@@ -11,7 +11,7 @@ Practicing [Test-Driven-Development (TDD)](http://en.wikipedia.org/wiki/Test-dri
 I am currently reading the book [Implementing Domain-Driven design](http://vaughnvernon.co/?page_id=168){:target="_blank"} by [Vaughn Vernon](https://twitter.com/vaughnvernon){:target="_blank"}.
 It is an amazing book that is helping me to understand the concepts of DDD with examples.
 
-I solved the following [Mars Rover kata](https://github.com/mustaine/katas/tree/master/mars-rover){:target="_blank"} focusing on the design.
+I solved the following [Mars Rover kata](https://github.com/jsalinaspolo/katas/tree/master/mars-rover){:target="_blank"} focusing on the design.
 
 ## Mars Rover
 
@@ -26,7 +26,7 @@ Develop an api that moves a rover around on a grid.
 5. Implement wrapping from one edge of the grid to another. (planets are spheres after all)
 6. Implement obstacle detection before each move to a new square. If a given sequence of commands encounters an obstacle, the rover moves up to the last possible point and reports the obstacle.
 
-I am not interested in describing each step that I implemented to solve this kata, as you could check each commit on the [history](https://github.com/mustaine/katas/commits/master/mars-rover){:target="_blank"}.
+I am not interested in describing each step that I implemented to solve this kata, as you could check each commit on the [history](https://github.com/jsalinaspolo/katas/commits/master/mars-rover){:target="_blank"}.
 Instead I will point out the most interesting parts.
 
 I wanted to avoid the [anemic model](http://www.martinfowler.com/bliki/AnemicDomainModel.html), so I tried to separate the [value objects](http://martinfowler.com/bliki/ValueObject.html){:target="_blank"}
@@ -183,7 +183,7 @@ Recently a well-known friend [Felipe](https://twitter.com/felipefzdz){:target="_
 
 so why don't we build more expressive code to avoid spend a lot of time to try to figure out what it is actually doing?
 
-The full source is on a github repo [mars-rover](https://github.com/mustaine/katas/tree/master/mars-rover){:target="_blank"}
+The full source is on a github repo [mars-rover](https://github.com/jsalinaspolo/katas/tree/master/mars-rover){:target="_blank"}
 
 Another solution by [Viktor Farcic](https://twitter.com/vfarcic){:target="_blank"} is on [technologyconversations](http://technologyconversations.com/2014/10/17/java-tutorial-through-katas-mars-rover){:target="_blank"}
 

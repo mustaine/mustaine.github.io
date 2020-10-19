@@ -15,7 +15,7 @@ that with the beginning of the new year, usually, comes back the idea to write m
 * At times, failed as a Lead to the team.
 * Built up a team embracing Extreme Programming practices, making a team up to ten developers who enjoy working pairing.
 * Pushed my self to give a [talk](https://www.youtube.com/watch?v=0eVyAyDIlNs) at a conference, but I need to improve my delivery at talks.
-* Contributed to open source projects as [JGiven](https://github.com/TNG/JGiven) and [Ratpack](https://github.com/ratpack/ratpack). Also, I kept up-to-date [LogCapture](https://github.com/mustaine/logcapture).
+* Contributed to open source projects as [JGiven](https://github.com/TNG/JGiven) and [Ratpack](https://github.com/ratpack/ratpack). Also, I kept up-to-date [LogCapture](https://github.com/jsalinaspolo/logcapture).
 * Did not find the time to read books.
 
 #### Personally
